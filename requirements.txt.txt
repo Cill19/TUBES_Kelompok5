@@ -1,0 +1,17 @@
+streamlit
+streamlit_option_menu
+streamlit_components
+random
+cycle
+repeat
+count
+numpy ==1.23.4
+itertools
+pandas == 1.5.3
+operator
+chain
+combinations
+permutations
+reduce
+plotly.express
+PIL
